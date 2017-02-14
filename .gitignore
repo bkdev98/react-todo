@@ -2,3 +2,4 @@ example/
 node_modules/
 yarn-error.log
 public/bundle.js
+config/
